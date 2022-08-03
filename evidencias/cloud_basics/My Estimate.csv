@@ -1,0 +1,9 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),EC2 instances,Amazon EC2,0,129.57999999999998,1554.96,USD,"Operating system (Linux), Quantity (13), Pricing strategy (On-Demand Instances), Storage amount (15 GB), Instance type (t2.micro)"
+My Estimate,US East (N. Virginia),Two load balancer for the FrontEnd and the backEnd,Application Load Balancer,0,44.53,534.36,USD,Number of Application Load Balancers (2)
+My Estimate,US East (N. Virginia),VPC with 4 subnets and NAT gateway,Network Address Translation (NAT) Gateway,0,65.78,789.36,USD,Number of NAT Gateways (2)
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
