@@ -10,5 +10,5 @@ The repository porpuse is for tracking the progress that is made during the ramp
 - [x] Cloud Basics – AWS
 - [x] Cloud Basics – Azure
 - [x] Infrastructure as code – IaC
-- [ ] Server configuration management
+- [x] Server configuration management
 - [ ] CI/CD
