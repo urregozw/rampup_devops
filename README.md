@@ -11,4 +11,7 @@ The repository porpuse is for tracking the progress that is made during the ramp
 - [x] Cloud Basics – Azure
 - [x] Infrastructure as code – IaC
 - [x] Server configuration management
-- [ ] CI/CD
+- [x] CI/CD
+
+# Conclusion
+RamUp was completed in 18/08/2022
